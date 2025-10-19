@@ -1,10 +1,5 @@
 ### Greetings ! 👋
 
-TODO: Actual description and link to content ;) 
-
-If you are a potential employer and have found the link to this repository on my CV, then please mention the keyword "yeti" in the next message you sent to me. This way I can collect data whether employers look at github profiles and it whether it makes sense to bring it up in the interview. 
-
-
 
 
 <!--
