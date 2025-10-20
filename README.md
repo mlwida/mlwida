@@ -1,6 +1,6 @@
 ### Greetings ! 👋
 
-I am mlwida ("mind like water in data analysis"), a Data Scientist and Software Engineer (so a Machine Learning Engineer ? AI Engineer ?), living in Frankfurt metropolitan area, Germany.
+I am mlwida ("mind like water in data analysis"), a Data Scientist and Software Engineer (so a Machine Learning Engineer ? AI Engineer ?), currently living in Germany.
 
 I am currently working on a personal project called shelfspy, which I document [here](https://github.com/mlwida/shelfspy-blog/blob/main/README.md).
 
